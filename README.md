@@ -7,12 +7,12 @@ or just someone looking for a versatile calculator tool, this project has got yo
 
 Features:
 
-Basic Arithmetic: Perform addition, subtraction, multiplication, and division with ease.
-Advance Functions:  Advanced mathematical operations like factorial,root,decimal to binary.
-Keyboard Support: Use your computer's keyboard for faster input and improved accessibility.
+Basic Arithmetic: Perform addition, subtraction, multiplication, and division with ease.<br />
+Advance Functions:  Advanced mathematical operations like factorial,root,decimal to binary.<br />
+Keyboard Support: Use your computer's keyboard for faster input and improved accessibility.<br />
 
-The Calculator Project is built using modern web technologies to ensure reliability and accessibility.
+The Calculator Project is built using modern web technologies to ensure reliability and accessibility.<br />
 The primary technologies used in this project include:
 
-HTML and CSS: For creating the user interface and styling the calculator.
-JavaScript: For implementing the calculator's logic and handling user interactions.
+HTML and CSS: For creating the user interface and styling the calculator.<br />
+JavaScript: For implementing the calculator's logic and handling user interactions.<br />
